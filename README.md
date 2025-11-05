@@ -72,8 +72,8 @@ This lab demonstrates a realistic attack progression exploiting common AWS misco
 
 1. **Clone and Enter Repository**
    ```bash
-   git clone https://github.com/scenelauncher/lamda_testing.git
-   cd lamda_testing
+   git clone https://github.com/norsemen-local/lambdalabs.git
+   cd lamdalabs
    ```
 
 2. **Set Up Python Environment**
