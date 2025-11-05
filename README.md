@@ -121,16 +121,6 @@ python3 lambdalabs.py
 bash tools/cleanup_all.sh
 ```
 
-## 📚 Learn More
-
-For detailed information, advanced usage, and troubleshooting:
-
-- **📖 Technical Details**: See [ARCHITECTURE.md](docs/ARCHITECTURE.md)
-- **⚙️ Advanced Configuration**: See [ADVANCED.md](docs/ADVANCED.md)  
-- **🔍 Troubleshooting**: See [TROUBLESHOOTING.md](docs/TROUBLESHOOTING.md)
-- **💰 Cost Management**: See [COSTS.md](docs/COSTS.md)
-- **🛡️ Security Features**: See [SECURITY.md](docs/SECURITY.md)
-
 ## 📄 License
 
 MIT License - see LICENSE file for details.
